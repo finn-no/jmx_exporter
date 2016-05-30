@@ -3,5 +3,10 @@
 *.swp
 
 # compilation objects
-target/
+target
 /.project
+
+*.iml
+.idea
+
+dependency-reduced-pom.xml
