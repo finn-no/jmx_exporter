@@ -1,4 +1,7 @@
----   
+---
+hostPort: dev-mobilweb1.finntech.no:28084
+additionalLabels:
+  app: tomcat
 lowercaseOutputLabelNames: true
 lowercaseOutputName: true
 rules:
